@@ -4,13 +4,13 @@
      width="100%" height="100%" viewBox="0 0 1280 720"
      preserveAspectRatio="none">
   <title>The Game</title>
-  <desc>Loads the browser game from the repository's HTML entry point.</desc>
+  <desc>Loads the browser game from jsDelivr.</desc>
   <rect width="1280" height="720" fill="#111827"/>
   <foreignObject x="0" y="0" width="1280" height="720">
     <xhtml:div xmlns="http://www.w3.org/1999/xhtml"
                style="width:100vw;height:100vh;margin:0;padding:0;overflow:hidden;background:#111827">
       <xhtml:iframe
-        src="https://raw.githubusercontent.com/Aker-nx/The-game./main/index.html"
+        src="https://cdn.jsdelivr.net/gh/Aker-nx/The-game.@main/index.html"
         title="The Game"
         style="display:block;width:100%;height:100%;border:0"
         allow="fullscreen; gamepad"
